@@ -331,7 +331,7 @@
         <img src="images/person-3.jpg">
       </div>
       <div class="tcontent">
-        <h2><b>Gokul Subramaniyam</b></h2>
+        <h2><b>Gokul Subramanian</b></h2>
         <p>Student at ASE</p>
             <a href="mailto:gokulspriv@gmail.com" target="_blank"><i class="fas fa-envelope"></i></a>
             <a href="https://www.linkedin.com/in/gokul-subramanian-3a2788182/" target="_blank"><i class="fab fa-linkedin"></i></a>
