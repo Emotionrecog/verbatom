@@ -93,7 +93,7 @@
     <div class="underline"></div>
     <div class="question">
       <h1 ><b>What?</b></h1>
-      <h2 >VerbAtom is an stands for Automatic Emotion Recognition System (AERS), which is the process of determining the basic emotional state of a person by analysing certain abstract features and later classifying them into human recognisable manner.</h2>
+      <h2 >VerbAtom is an Automatic Emotion Recognition System (AERS), which is the process of determining the basic emotional state of a person by analysing certain abstract features and later classifying them into human recognisable manner.</h2>
     </div>
     <div class="question">
       <h2 >In this era of growing Human Machine Interface (HMI) technology, the automatic recognition of emotion is a crucial task. Although it is straightforward to sense other people’s emotion, it still takes paramount effort for machines to precisely interpret the complicated emotions of a human. So we have built a modal that could make this task easier.</h1>
