@@ -4,7 +4,8 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>VerbAtom</title>
-
+    <link rel="icon" href="images/lg1.png">
+    
     <!-- Link to stylesheet -->
     <link rel="stylesheet" href="style3.css" />
     <!-- Link to font awesome online -->
