@@ -54,7 +54,7 @@
           
           <h1><img src="images/lg1.png"></h1>
           <P class="uder"></P>
-          <p><b>(n.) as real as it seems</b></p>
+          <p><b>More than you feel|More than you realize</b></p>
           <div></div>
           <i class="fa fa-smile-o" aria-hidden="true"></i>
           <a href="#about"><button>Discover now</button></a>
@@ -211,7 +211,7 @@
               <h2>Extract Raw Information</h2>
               <p>1. Facial expression using camera</p>
               <p>2. Speech signal using voice recorder</p>
-              <p>3. EEG signal using electrodes</p>
+              <p>3. EEG signal using electrodes based on "International 10/20 system"</p>
             </div>
           </article>
           <article>
