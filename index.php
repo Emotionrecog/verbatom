@@ -54,7 +54,7 @@
           
           <h1><img src="images/lg1.png"></h1>
           <P class="uder"></P>
-          <p><b>More than you feel|More than you realize</b></p>
+          <p><b>More than you feel, More than you realize</b></p>
           <div></div>
           <i class="fa fa-smile-o" aria-hidden="true"></i>
           <a href="#about"><button>Discover now</button></a>
